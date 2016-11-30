@@ -1,0 +1,8 @@
+*.idb
+*.tlog
+*.dll
+*.lib
+*.ipch
+*.opendb
+*.db
+*.filters
